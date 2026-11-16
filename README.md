@@ -15,7 +15,6 @@
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyprem-music%2Fyprem-music&count_bg=%23C0C0C0&title_bg=%230d0d0d&icon=&icon_color=&title=views&edge_flat=false)](https://github.com/yprem-music/yprem-music)
 [![Release](https://img.shields.io/github/v/release/yprem-music/yprem-music?style=flat-square&labelColor=0d0d0d&color=c0c0c0)](https://github.com/yprem-music/yprem-music/releases/latest)
 [![Tests](https://img.shields.io/badge/tests-34%2F34-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c0c0c0)](#сборка-и-проверки)
-[![License](https://img.shields.io/badge/license-MIT-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c0c0c0)](#лицензия)
 
 **Языки и технологии:**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
