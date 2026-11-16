@@ -36,8 +36,8 @@
 
 | ОС | Файл | Действие |
 |---|---|---|
-| **Windows 10/11** | `YPREM-1.1.0-setup.exe` | Запустить → «Подробнее → Выполнить в любом случае» (SmartScreen) → всё «из коробки», yt-dlp входит в комплект |
-| **Linux (deb)** | `yprem_1.1.0_amd64.deb` | `sudo apt install ./yprem_1.1.0_amd64.deb` |
+| **Windows 10/11** | `YPREM-1.1.1-setup.exe` | Запустить → «Подробнее → Выполнить в любом случае» (SmartScreen) → всё «из коробки», yt-dlp входит в комплект |
+| **Linux (deb)** | `yprem_1.1.1_amd64.deb` | `sudo apt install ./yprem_1.1.1_amd64.deb` |
 
 > Скачивайте только из [Releases](https://github.com/yprem-music/yprem-music/releases) —
 > контрольные суммы в [`SHA256SUMS.txt`](release/1.1.0/SHA256SUMS.txt).
