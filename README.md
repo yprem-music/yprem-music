@@ -12,7 +12,7 @@
 
 [![Downloads](https://img.shields.io/github/downloads/yprem-music/yprem-music/total?style=flat-square&labelColor=0d0d0d&color=c0c0c0&logo=github)](https://github.com/yprem-music/yprem-music/releases)
 [![Stars](https://img.shields.io/github/stars/yprem-music/yprem-music?style=flat-square&labelColor=0d0d0d&color=c0c0c0&logo=github)](https://github.com/yprem-music/yprem-music/stargazers)
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyprem-music%2Fyprem-music&count_bg=%23C0C0C0&title_bg=%230d0d0d&icon=&icon_color=&title=views&edge_flat=false)](https://github.com/yprem-music/yprem-music)
+![Views](https://komarev.com/ghpvc/?username=yprem-music&color=blue&style=flat-square&label=VIEWS)
 [![Release](https://img.shields.io/github/v/release/yprem-music/yprem-music?style=flat-square&labelColor=0d0d0d&color=c0c0c0)](https://github.com/yprem-music/yprem-music/releases/latest)
 [![Tests](https://img.shields.io/badge/tests-34%2F34-0d0d0d?style=flat-square&labelColor=0d0d0d&color=c0c0c0)](#сборка-и-проверки)
 
