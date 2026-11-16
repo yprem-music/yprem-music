@@ -97,10 +97,7 @@ UI (vanilla JS) ──IPC──▶ Rust: PlaybackController ──▶ один �
 - YouTube-миксы (RD\*) не импортируются — это ограничение платформы.
 - iframe-превью загружаются с YouTube: на совсем медленном канале — появятся позже списка.
 
-## Лицензия
-
-MIT — см. [LICENSE](LICENSE).
-
+  
 <div align="center">
 <b>YPREM.</b> — музыка вне ограничений.<br>
 <sub>Сделано на Rust, без Electron и без VPN.</sub>
