@@ -7,9 +7,6 @@
 **Музыка вне ограничений.** Десктопный плеер YouTube & SoundCloud,
 который работает в РФ без VPN.
 
-**DPI-обход и AdBlock встроены в приложение** — никаких системных правок,
-служб, драйверов и UAC. Закрыл приложение — система нетронута.
-
 [![Downloads](https://img.shields.io/github/downloads/yprem-music/yprem-music/total?style=flat-square&labelColor=0d0d0d&color=c0c0c0&logo=github)](https://github.com/yprem-music/yprem-music/releases)
 [![Stars](https://img.shields.io/github/stars/yprem-music/yprem-music?style=flat-square&labelColor=0d0d0d&color=c0c0c0&logo=github)](https://github.com/yprem-music/yprem-music/stargazers)
 ![Views](https://komarev.com/ghpvc/?username=yprem-music&color=blue&style=flat-square&label=VIEWS)
